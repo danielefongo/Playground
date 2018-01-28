@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <Contenitore name="Caratteristiche">
+    <Contenitore name="Abilità">
+      <Contenuto name="Test" tipo="string" formula="34+1a" modificabile="" conferma="" />
+      <Contenuto name="Test2" tipo="string" formula="34+1a" modificabile="" conferma="" />
+    </Contenitore>
+    <Contenuto name="Forza" tipo="int" formula="123+1" modificabile="" conferma="" />
+  </Contenitore>
+</Template>

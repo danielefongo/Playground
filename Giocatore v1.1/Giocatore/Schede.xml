@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schede>
+  <Scheda name="Pippo">
+    <Campo name="FOR" valore="15" />
+    <Campo name="TEST" valore="tanta" />
+    <Campo name="DES" valore="17" />
+  </Scheda>
+  <Scheda name="Paperino">
+    <Campo name="FOR" valore="10" />
+    <Campo name="TEST" valore="deqw" />
+    <Campo name="DES" valore="13" />
+  </Scheda>
+  <Scheda name="Giovannino">
+    <Campo name="FOR" valore="18" />
+    <Campo name="TEST" valore="daa" />
+    <Campo name="DES" valore="8" />
+  </Scheda>
+</Schede>
